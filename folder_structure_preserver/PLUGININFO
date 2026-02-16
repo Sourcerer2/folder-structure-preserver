@@ -1,0 +1,4 @@
+Name = "Folder Structure Preserver"
+Description = "Preserves remote folder paths by moving downloaded files to a folder matching its source location."
+Authors = ["ChatGPT"]
+Version = "1.0.0"
